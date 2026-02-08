@@ -63,7 +63,7 @@
 		 ];
 		 
 
-	    userName = "yuri"
+	    userName = "yuri";
     	userEmail = "vairoubarmeuemailnapqpcorno@gmail.com"
 
 		
